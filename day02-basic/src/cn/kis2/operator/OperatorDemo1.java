@@ -21,6 +21,8 @@ public class OperatorDemo1 {
     // + 特殊用法 字符串拼接
     static void print2() {
         int a = 15;
-        System.out.println("abc" + a);
+        System.out.println("abc" + a); // abc15
+        System.out.println(a + 5); // 20
+        System.out.println('a' + a + 'b'); // 122 字符底层是数字
     }
 }
