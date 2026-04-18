@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAiBase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/demo/AllTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/day03-flow-control.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/branch/IfDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/branch/IfDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/branch/SwitchDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/branch/SwitchDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/Dead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForForDemo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/WhileDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/WhileDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/WhileDo04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
+      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/BreakAndContinueDemo06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01-helloworld-app/day01-helloworld-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day01-helloworld-app/day01-helloworld-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02-basic/day02-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day02-basic/day02-basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02-basic/src/cn/kis2/operator/OperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForForDemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForForDemo05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +63,9 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "通义灵码",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.BreakAndContinueDemo06.executor": "Run",
     "应用程序.DeadForLoop.executor": "Run",
     "应用程序.ForDemo01.executor": "Run",
     "应用程序.ForForDemo05.executor": "Run",
@@ -91,14 +73,23 @@
     "应用程序.IfDemo02.executor": "Run",
     "应用程序.SwitchDemo03.executor": "Run",
     "应用程序.SwitchDemo4.executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.Test02.executor": "Run",
+    "应用程序.Test03.executor": "Run",
+    "应用程序.Test04.executor": "Run",
     "应用程序.WhileDemo02.executor": "Run",
     "应用程序.WhileDemo03.executor": "Run",
     "应用程序.WhileDo04.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ForForDemo05">
-    <configuration name="Dead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.Dead" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kis2.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test04">
+    <configuration name="BreakAndContinueDemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.BreakAndContinueDemo06" />
       <module name="day03-flow-control" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForForDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.ForForDemo05" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test01" />
       <module name="day03-flow-control" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.loop.*" />
+          <option name="PATTERN" value="cn.kis2.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.WhileDemo02" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test02" />
       <module name="day03-flow-control" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.loop.*" />
+          <option name="PATTERN" value="cn.kis2.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.WhileDemo03" />
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test03" />
       <module name="day03-flow-control" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.loop.*" />
+          <option name="PATTERN" value="cn.kis2.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.WhileDo04" />
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test04" />
       <module name="day03-flow-control" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.loop.*" />
+          <option name="PATTERN" value="cn.kis2.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ForForDemo05" />
-        <item itemvalue="应用程序.DeadForLoop" />
-        <item itemvalue="应用程序.WhileDo04" />
-        <item itemvalue="应用程序.WhileDemo03" />
-        <item itemvalue="应用程序.WhileDemo02" />
+        <item itemvalue="应用程序.Test04" />
+        <item itemvalue="应用程序.Test03" />
+        <item itemvalue="应用程序.Test02" />
+        <item itemvalue="应用程序.Test01" />
+        <item itemvalue="应用程序.BreakAndContinueDemo06" />
       </list>
     </recent_temporary>
   </component>
@@ -181,12 +172,48 @@
       <updated>1776317512210</updated>
       <workItem from="1776317513251" duration="13809000" />
       <workItem from="1776428111451" duration="844000" />
-      <workItem from="1776428975528" duration="2256000" />
+      <workItem from="1776428975528" duration="11368000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
+      <option name="closed" value="true" />
+      <created>1776431428834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776431428835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
