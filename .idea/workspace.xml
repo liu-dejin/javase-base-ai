@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/demo/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/BreakAndContinueDemo06.java" afterDir="false" />
+    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java流程控制语句学习项目&#10;&#10;- 创建break和continue语句演示代码，展示循环控制流程&#10;- 实现嵌套循环和九九乘法表演示，展示循环嵌套应用&#10;- 添加简单计算器程序，实现基本四则运算功能&#10;- 创建猜数字游戏，实现随机数生成和用户交互逻辑&#10;- 实现随机验证码生成功能，支持数字和大小写字母组合&#10;- 添加质数判断程序，实现101到200之间的质数查找&#10;- 配置IntelliJ IDEA项目文件和工作空间设置">
+      <change afterPath="$PROJECT_DIR$/.idea/.cache/.Apifox_Helper/.toolWindow.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/day04-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-array/src/cn/kis2/Array/ArrayTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForForDemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03-flow-control/src/cn/kis2/loop/ForForDemo05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +66,14 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "通义灵码",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.ArrayDemo01.executor": "Run",
+    "应用程序.ArrayDemo02.executor": "Run",
+    "应用程序.ArrayDemo03.executor": "Run",
+    "应用程序.ArrayDemo04.executor": "Run",
+    "应用程序.ArrayTest01.executor": "Run",
+    "应用程序.ArrayTest02.executor": "Run",
     "应用程序.BreakAndContinueDemo06.executor": "Run",
     "应用程序.DeadForLoop.executor": "Run",
     "应用程序.ForDemo01.executor": "Run",
@@ -84,16 +93,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kis2.Array" />
       <recent name="cn.kis2.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test04">
-    <configuration name="BreakAndContinueDemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.loop.BreakAndContinueDemo06" />
-      <module name="day03-flow-control" />
+  <component name="RunManager" selected="应用程序.ArrayTest02">
+    <configuration name="ArrayDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.Array.ArrayDemo02" />
+      <module name="day04-array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.loop.*" />
+          <option name="PATTERN" value="cn.kis2.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test01" />
-      <module name="day03-flow-control" />
+    <configuration name="ArrayDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.Array.ArrayDemo03" />
+      <module name="day04-array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.demo.*" />
+          <option name="PATTERN" value="cn.kis2.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test02" />
-      <module name="day03-flow-control" />
+    <configuration name="ArrayDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.Array.ArrayDemo04" />
+      <module name="day04-array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.demo.*" />
+          <option name="PATTERN" value="cn.kis2.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test03" />
-      <module name="day03-flow-control" />
+    <configuration name="ArrayTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.Array.ArrayTest01" />
+      <module name="day04-array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.demo.*" />
+          <option name="PATTERN" value="cn.kis2.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test04" />
-      <module name="day03-flow-control" />
+    <configuration name="ArrayTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.Array.ArrayTest02" />
+      <module name="day04-array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.demo.*" />
+          <option name="PATTERN" value="cn.kis2.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test04" />
-        <item itemvalue="应用程序.Test03" />
-        <item itemvalue="应用程序.Test02" />
-        <item itemvalue="应用程序.Test01" />
-        <item itemvalue="应用程序.BreakAndContinueDemo06" />
+        <item itemvalue="应用程序.ArrayTest02" />
+        <item itemvalue="应用程序.ArrayDemo04" />
+        <item itemvalue="应用程序.ArrayTest01" />
+        <item itemvalue="应用程序.ArrayDemo03" />
+        <item itemvalue="应用程序.ArrayDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +183,12 @@
       <workItem from="1776317513251" duration="13809000" />
       <workItem from="1776428111451" duration="844000" />
       <workItem from="1776428975528" duration="11368000" />
+      <workItem from="1776502016135" duration="993000" />
+      <workItem from="1776511526278" duration="4930000" />
+      <workItem from="1776660953864" duration="567000" />
+      <workItem from="1776683462767" duration="2012000" />
+      <workItem from="1776686197590" duration="3394000" />
+      <workItem from="1776774545956" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
       <option name="closed" value="true" />
@@ -182,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776431428835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(java): 添加Java流程控制语句学习项目&#10;&#10;- 创建break和continue语句演示代码，展示循环控制流程&#10;- 实现嵌套循环和九九乘法表演示，展示循环嵌套应用&#10;- 添加简单计算器程序，实现基本四则运算功能&#10;- 创建猜数字游戏，实现随机数生成和用户交互逻辑&#10;- 实现随机验证码生成功能，支持数字和大小写字母组合&#10;- 添加质数判断程序，实现101到200之间的质数查找&#10;- 配置IntelliJ IDEA项目文件和工作空间设置">
+      <option name="closed" value="true" />
+      <created>1776502209880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776502209880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +237,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置" />
+    <MESSAGE value="feat(java): 添加Java流程控制语句学习项目&#10;&#10;- 创建break和continue语句演示代码，展示循环控制流程&#10;- 实现嵌套循环和九九乘法表演示，展示循环嵌套应用&#10;- 添加简单计算器程序，实现基本四则运算功能&#10;- 创建猜数字游戏，实现随机数生成和用户交互逻辑&#10;- 实现随机验证码生成功能，支持数字和大小写字母组合&#10;- 添加质数判断程序，实现101到200之间的质数查找&#10;- 配置IntelliJ IDEA项目文件和工作空间设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
