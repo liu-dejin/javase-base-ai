@@ -16,11 +16,11 @@ public class Student {
         this.age = age;
     }
 
-    void printTotalScore() {
+    public void printTotalScore() {
         System.out.println(name + "总成绩：" + (chinese + math));
     }
 
-    void printAvgScore() {
+    public void printAvgScore() {
         System.out.println(name + "平均成绩：" + (chinese + math) / 2);
     }
 }

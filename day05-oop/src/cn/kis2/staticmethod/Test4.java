@@ -1,6 +1,6 @@
 package cn.kis2.staticmethod;
 
-public class test4 {
+public class Test4 {
     // 静态方法实例方法注意事项
 
     // 静态变量
@@ -8,15 +8,15 @@ public class test4 {
     // 实例变量
     private int age = 19;
 
-    static void printHello() {
+    public static void printHello() {
         System.out.println("hello,world");
     }
 
-    static void main() {
+    public static void main(String[] args) {
     }
 
     // 1.静态方法可以直接访问静态成员 不可以访问实例成员
-    static void print() {
+    public static void print() {
         System.out.println(score);
         printHello();
         // System.out.println(new test4().age);
@@ -26,13 +26,13 @@ public class test4 {
         // System.out.println(this); // 静态方法 不需要对象调
     }
 
-    void run() {
+    public void run() {
     }
 
     // 2、实例方法中既可以直接访问静态成员，也可以直接访问实例成员。
 
     // 3.实例方法中可以出现this关键字，静态方法中不可以出现this关键字的.
-    void go() {
+    public void go() {
         System.out.println(score);
         printHello();
         System.out.println(age);

@@ -18,7 +18,7 @@ public class Student {
 // get set 方法
 
 
-    Student() {
+    public Student() {
     }
 
     // 有参构造器

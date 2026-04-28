@@ -5,19 +5,38 @@ public class Student {
     int age;
     char sex;
 
-    // 无参数构造方法
-    Student() {
-        System.out.println("无参构造器");
+    public String getName() {
+        return name;
     }
 
-    // 有参数构造方法
-    Student(String name) {
-        System.out.println("有参构造器" + name);
+    public void setName(String name) {
+        this.name = name;
     }
 
-    Student(String n, int a, char s) {
-        name = n;
-        age = a;
-        sex = s;
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public char getSex() {
+        return sex;
+    }
+
+    public void setSex(char sex) {
+        this.sex = sex;
+    }
+
+
+
+    public Student() {
+    }
+
+    public Student(String name, int age, char sex) {
+        this.name = name;
+        this.age = age;
+        this.sex = sex;
     }
 }

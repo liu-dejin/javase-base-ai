@@ -17,7 +17,7 @@ public class Test {
         // 这个方法只是为了做一个功能,不需要直接方法对象的数据 定义为静态方法
         // 这个方法是对象的行为，需要访问对象的数据，必须定义为实例方法
     }
-    static void printHello(){
+    public static void printHello(){
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");

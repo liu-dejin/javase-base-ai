@@ -5,7 +5,7 @@ public class Student {
     String name;
     double chinese;
     double math;
-    void print() {
+    public void print() {
         System.out.println(name + "总成绩：" + (chinese + math));
         System.out.println(name + "平均成绩：" + (chinese + math) / 2);
     }

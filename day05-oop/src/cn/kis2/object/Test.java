@@ -14,7 +14,7 @@ public class Test {
         System.out.println(s1.height);
         System.out.println(s1.weight);
         System.out.println("--------------------------------");
-        
+
 
         Star s2 = new Star();
         s2.name = "张三";

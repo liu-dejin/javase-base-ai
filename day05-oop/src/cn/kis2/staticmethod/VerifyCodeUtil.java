@@ -6,7 +6,7 @@ public class VerifyCodeUtil {
 
     // 工具类没有创建对象的必要 私有化构造器
     private VerifyCodeUtil(){}
-    static String getCode(int n){
+    public static String getCode(int n){
         // 指定位数验证码
 
         String code = "";

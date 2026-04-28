@@ -7,7 +7,7 @@ public class Student {
     int age;
     char sex;
 
-    void print() {
+    public void print() {
         // 那个对象调用这个方法，this就是那个对象
         System.out.println(this);
         System.out.println(this.name);
@@ -16,7 +16,7 @@ public class Student {
     }
 
     // 局部变量  this 防止冲突
-    void printHobby(String name) {
+    public void printHobby(String name) {
         this.name = name;
     }
 

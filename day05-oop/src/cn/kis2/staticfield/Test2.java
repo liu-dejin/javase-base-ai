@@ -7,7 +7,7 @@ public class Test2 {
         new User();
         new User();
         new User();
-        new User();
+
         System.out.println(User.count);
     }
 }

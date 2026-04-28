@@ -5,7 +5,7 @@ public class Test {
 
         // 创建对象 自动调用构造器
         Student s1 = new Student();
-        Student s2 = new Student("张三");
+        Student s2 = new Student("张三", 18, '男');
 
         // 场景
 

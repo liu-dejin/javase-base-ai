@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java数组操作学习项目&#10;&#10;- 创建数组基本操作演示，实现随机点名功能&#10;- 添加动态数组声明和学生成绩录入统计功能&#10;- 实现一维数组最大值查找算法&#10;- 添加二维数组操作和遍历打印功能&#10;- 创建扑克牌生成和洗牌算法实现&#10;- 实现二维数组填充和随机打乱功能&#10;- 配置IntelliJ IDEA项目文件和模块设置">
-      <change afterPath="$PROJECT_DIR$/day05-oop/day05-oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/MovieOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/StudentOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/VerifyCodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Test.java" afterDir="false" />
+    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例">
+      <change afterPath="$PROJECT_DIR$/day06-oop/day06-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Consultant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/StudentOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/StudentOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/VerifyCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/VerifyCodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +227,7 @@
       <workItem from="1776950870352" duration="1988000" />
       <workItem from="1777290632838" duration="6728000" />
       <workItem from="1777360407244" duration="8206000" />
-      <workItem from="1777383067456" duration="604000" />
+      <workItem from="1777383067456" duration="3369000" />
     </task>
     <task id="LOCAL-00001" summary="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
       <option name="closed" value="true" />
@@ -252,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776775944763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例">
+      <option name="closed" value="true" />
+      <created>1777383987207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777383987207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +294,8 @@
     <MESSAGE value="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置" />
     <MESSAGE value="feat(java): 添加Java流程控制语句学习项目&#10;&#10;- 创建break和continue语句演示代码，展示循环控制流程&#10;- 实现嵌套循环和九九乘法表演示，展示循环嵌套应用&#10;- 添加简单计算器程序，实现基本四则运算功能&#10;- 创建猜数字游戏，实现随机数生成和用户交互逻辑&#10;- 实现随机验证码生成功能，支持数字和大小写字母组合&#10;- 添加质数判断程序，实现101到200之间的质数查找&#10;- 配置IntelliJ IDEA项目文件和工作空间设置" />
     <MESSAGE value="feat(java): 添加Java数组操作学习项目&#10;&#10;- 创建数组基本操作演示，实现随机点名功能&#10;- 添加动态数组声明和学生成绩录入统计功能&#10;- 实现一维数组最大值查找算法&#10;- 添加二维数组操作和遍历打印功能&#10;- 创建扑克牌生成和洗牌算法实现&#10;- 实现二维数组填充和随机打乱功能&#10;- 配置IntelliJ IDEA项目文件和模块设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(java): 添加Java数组操作学习项目&#10;&#10;- 创建数组基本操作演示，实现随机点名功能&#10;- 添加动态数组声明和学生成绩录入统计功能&#10;- 实现一维数组最大值查找算法&#10;- 添加二维数组操作和遍历打印功能&#10;- 创建扑克牌生成和洗牌算法实现&#10;- 实现二维数组填充和随机打乱功能&#10;- 配置IntelliJ IDEA项目文件和模块设置" />
+    <MESSAGE value="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
