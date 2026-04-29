@@ -1,37 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例">
-      <change afterPath="$PROJECT_DIR$/day06-oop/day06-oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Consultant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="caba1e25-4553-445f-b64d-79ad90c74140" name="更改" comment="fix(java): 调整权限修饰符">
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/demo/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/demo/GoldCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/demo/SilverCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends2/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends3/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extends4/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsOverwire/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsOverwire/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsconstructor/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism1/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism1/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism2/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism2/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism3/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/polymorphism3/Wolf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/constructor/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/demo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/encapsulation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/StudentOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/StudentOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/javabean/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/object/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticfield/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/VerifyCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/VerifyCodeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/staticmethod/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-oop/src/cn/kis2/thisdemo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06-oop/day06-oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day06-oop/day06-oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Consultant.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo1/Consultant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo1/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo1/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-oop/src/cn/kis2/extendsdemo1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,55 +81,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/develop/java_project/JavaAiBase/day05-oop/src/cn/kis2/javabean&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.ArrayDemo01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo03.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo04.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayTest01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayTest02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BreakAndContinueDemo06.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.DeadForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ForDemo01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ForForDemo05.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo03.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test03.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test04.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.WhileDemo02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.WhileDemo03.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.WhileDo04.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cn.kis2.constructor.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cn.kis2.demo.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cn.kis2.staticfield.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cn.kis2.staticfield.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.cn.kis2.thisdemo.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/develop/java_project/JavaAiBase/day06-oop/src/cn/kis2/polymorphism3",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.ArrayDemo01.executor": "Run",
+    "应用程序.ArrayDemo02.executor": "Run",
+    "应用程序.ArrayDemo03.executor": "Run",
+    "应用程序.ArrayDemo04.executor": "Run",
+    "应用程序.ArrayTest01.executor": "Run",
+    "应用程序.ArrayTest02.executor": "Run",
+    "应用程序.BreakAndContinueDemo06.executor": "Run",
+    "应用程序.DeadForLoop.executor": "Run",
+    "应用程序.ForDemo01.executor": "Run",
+    "应用程序.ForForDemo05.executor": "Run",
+    "应用程序.IfDemo01.executor": "Run",
+    "应用程序.IfDemo02.executor": "Run",
+    "应用程序.SwitchDemo03.executor": "Run",
+    "应用程序.SwitchDemo4.executor": "Run",
+    "应用程序.Test (1).executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.Test02.executor": "Run",
+    "应用程序.Test03.executor": "Run",
+    "应用程序.Test04.executor": "Run",
+    "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.WhileDemo02.executor": "Run",
+    "应用程序.WhileDemo03.executor": "Run",
+    "应用程序.WhileDo04.executor": "Run",
+    "应用程序.cn.kis2.constructor.Test.executor": "Run",
+    "应用程序.cn.kis2.demo.Test.executor": "Run",
+    "应用程序.cn.kis2.extends4.Test2 (1).executor": "Run",
+    "应用程序.cn.kis2.extends4.Test2 (2).executor": "Run",
+    "应用程序.cn.kis2.extends4.Test2 (3).executor": "Run",
+    "应用程序.cn.kis2.extends4.Test2.executor": "Run",
+    "应用程序.cn.kis2.extendsOverwire.Test2 (1).executor": "Run",
+    "应用程序.cn.kis2.extendsOverwire.Test2.executor": "Run",
+    "应用程序.cn.kis2.extendsconstructor.Test2.executor": "Run",
+    "应用程序.cn.kis2.polymorphism1.Test.executor": "Run",
+    "应用程序.cn.kis2.polymorphism2.Test.executor": "Run",
+    "应用程序.cn.kis2.staticfield.Test.executor": "Run",
+    "应用程序.cn.kis2.staticfield.Test2.executor": "Run",
+    "应用程序.cn.kis2.thisdemo.Test.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\develop\java_project\JavaAiBase\day06-oop\src\cn\kis2\polymorphism3" />
+      <recent name="C:\develop\java_project\JavaAiBase\day06-oop\src\cn\kis2\polymorphism2" />
+      <recent name="C:\develop\java_project\JavaAiBase\day06-oop\src\cn\kis2\extendsconstructor" />
       <recent name="C:\develop\java_project\JavaAiBase\day05-oop\src\cn\kis2\javabean" />
       <recent name="C:\develop\java_project\JavaAiBase\day05-oop\src\cn\kis2\thisdemo" />
     </key>
@@ -131,11 +158,11 @@
   </component>
   <component name="RunManager" selected="应用程序.cn.kis2.demo.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.staticmethod.Test" />
-      <module name="day05-oop" />
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.polymorphism3.Test" />
+      <module name="day06-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.staticmethod.*" />
+          <option name="PATTERN" value="cn.kis2.polymorphism3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.staticmethod.Test2" />
-      <module name="day05-oop" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.extendsconstructor.Test3" />
+      <module name="day06-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.staticmethod.*" />
+          <option name="PATTERN" value="cn.kis2.extendsconstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,7 +185,7 @@
     </configuration>
     <configuration name="cn.kis2.demo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.kis2.demo.Test" />
-      <module name="day05-oop" />
+      <module name="day06-oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.kis2.demo.*" />
@@ -169,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cn.kis2.staticfield.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.staticfield.Test" />
-      <module name="day05-oop" />
+    <configuration name="cn.kis2.polymorphism1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.polymorphism1.Test" />
+      <module name="day06-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.staticfield.*" />
+          <option name="PATTERN" value="cn.kis2.polymorphism1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cn.kis2.staticfield.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kis2.staticfield.Test2" />
-      <module name="day05-oop" />
+    <configuration name="cn.kis2.polymorphism2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kis2.polymorphism2.Test" />
+      <module name="day06-oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kis2.staticfield.*" />
+          <option name="PATTERN" value="cn.kis2.polymorphism2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,10 +225,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.cn.kis2.demo.Test" />
-        <item itemvalue="应用程序.Test2" />
         <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.cn.kis2.staticfield.Test2" />
-        <item itemvalue="应用程序.cn.kis2.staticfield.Test" />
+        <item itemvalue="应用程序.cn.kis2.polymorphism2.Test" />
+        <item itemvalue="应用程序.cn.kis2.polymorphism1.Test" />
+        <item itemvalue="应用程序.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +254,9 @@
       <workItem from="1776950870352" duration="1988000" />
       <workItem from="1777290632838" duration="6728000" />
       <workItem from="1777360407244" duration="8206000" />
-      <workItem from="1777383067456" duration="3369000" />
+      <workItem from="1777383067456" duration="4255000" />
+      <workItem from="1777387653728" duration="2120000" />
+      <workItem from="1777428472356" duration="15750000" />
     </task>
     <task id="LOCAL-00001" summary="feat(java): 添加Java基础语法学习项目&#10;&#10;- 创建健康计算器程序，实现BMI和BMR计算功能&#10;- 添加算术运算符、自增自减运算符、赋值运算符演示代码&#10;- 实现关系运算符、逻辑运算符、三元运算符的使用示例&#10;- 添加if分支结构和switch分支结构的演示代码&#10;- 实现for循环、while循环、do-while循环的练习代码&#10;- 创建嵌套循环和各种流程控制语句的示例&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 添加项目相关的IDE配置和工作空间设置">
       <option name="closed" value="true" />
@@ -261,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777383987207</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix(java): 调整权限修饰符">
+      <option name="closed" value="true" />
+      <created>1777386950451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777386950451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +332,8 @@
     <MESSAGE value="feat(java): 添加Java流程控制语句学习项目&#10;&#10;- 创建break和continue语句演示代码，展示循环控制流程&#10;- 实现嵌套循环和九九乘法表演示，展示循环嵌套应用&#10;- 添加简单计算器程序，实现基本四则运算功能&#10;- 创建猜数字游戏，实现随机数生成和用户交互逻辑&#10;- 实现随机验证码生成功能，支持数字和大小写字母组合&#10;- 添加质数判断程序，实现101到200之间的质数查找&#10;- 配置IntelliJ IDEA项目文件和工作空间设置" />
     <MESSAGE value="feat(java): 添加Java数组操作学习项目&#10;&#10;- 创建数组基本操作演示，实现随机点名功能&#10;- 添加动态数组声明和学生成绩录入统计功能&#10;- 实现一维数组最大值查找算法&#10;- 添加二维数组操作和遍历打印功能&#10;- 创建扑克牌生成和洗牌算法实现&#10;- 实现二维数组填充和随机打乱功能&#10;- 配置IntelliJ IDEA项目文件和模块设置" />
     <MESSAGE value="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(java): 添加Java面向对象编程学习项目&#10;&#10;- 创建Movie类和MovieOperator类，实现电影信息管理功能&#10;- 添加Student类演示构造器、封装性、JavaBean规范等OOP概念&#10;- 实现静态字段和静态方法的学习示例，包括工具类设计&#10;- 创建对象和实例方法演示，展示this关键字使用场景&#10;- 添加Star类演示对象属性访问和封装性原理&#10;- 配置IntelliJ IDEA项目文件和模块设置&#10;- 创建完整的面向对象编程练习代码和测试用例" />
+    <MESSAGE value="fix(java): 调整权限修饰符" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(java): 调整权限修饰符" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

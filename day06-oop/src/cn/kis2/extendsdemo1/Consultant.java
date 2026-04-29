@@ -1,4 +1,4 @@
-package cn.kis2.extendsdemo;
+package cn.kis2.extendsdemo1;
 
 public class Consultant extends People {
     private int number;

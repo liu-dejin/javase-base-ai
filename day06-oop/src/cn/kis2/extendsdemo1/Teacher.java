@@ -1,4 +1,4 @@
-package cn.kis2.extendsdemo;
+package cn.kis2.extendsdemo1;
 
 public class Teacher extends People{
     private String skill;
