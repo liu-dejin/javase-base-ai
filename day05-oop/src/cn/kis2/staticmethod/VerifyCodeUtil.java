@@ -1,6 +1,6 @@
 package cn.kis2.staticmethod;
 
-public class VerifyCodeUtil {
+public final class VerifyCodeUtil {
     // 工具类 静态方法
     // 类名调用 节约内存
 
